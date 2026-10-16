@@ -1,0 +1,6 @@
+{
+  "name": "Lonakdiag",
+  "description": "Professional ECU Automotive Diagnostic & Live Telemetry tool with ELM327 Bluetooth/WiFi, fault code reading, actuator testing, and real-time graphs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
